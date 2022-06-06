@@ -1,0 +1,19 @@
+{
+  "user": {
+    "userId": "1"
+  },
+  "bookDetail": {
+    "id": 1
+  },
+  "conferenceType": {
+    "id": 1
+  },
+  "callStartTime": "2022-02-07 11:19:51.575000",
+  "callEndTime": null,
+  "thumbnailUrl": "1",
+  "title": "1",
+  "isActive": 1,
+  "participant": [
+  ],
+  "description": "1"
+}

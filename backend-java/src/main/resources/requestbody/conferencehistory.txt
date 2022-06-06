@@ -1,0 +1,24 @@
+{
+    "conference": {
+      "id": 1,
+      "user": {
+        "userId": "1"
+      },
+      "bookDetail": {
+        "id": 1
+      },
+      "conferenceType": {
+        "id": 1
+      },
+      "thumbnailUrl": "1",
+      "title": "1",
+      "isActive": 0,
+      "participant": [],
+      "description": "1",
+      "hibernateLazyInitializer": {}
+    },
+    "user": {
+      "userId": "1"
+    },
+    "action": 2
+  }

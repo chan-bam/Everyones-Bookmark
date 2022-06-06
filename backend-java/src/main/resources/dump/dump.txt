@@ -1,0 +1,16 @@
+insert into User ( userName, userId, password)
+values (1, 1, 1);
+insert into User ( userName, userId, password)
+values (2, 2, 2);
+ALTER TABLE ConferenceType convert to charset utf8;
+insert into ConferenceType (conferenceTypeId, name)
+values (1, '업무');
+insert into ConferenceType (conferenceTypeId, name)
+values (2, '교육');
+insert into ConferenceType (conferenceTypeId, name)
+values (3, '기타');
+select * from BookDetail;
+insert into BookDetail
+values (1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
+insert into BookDetail
+values (2, 2, 2, 2, 2, 2, 2, 2, 2, 2);
