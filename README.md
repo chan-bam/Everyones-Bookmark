@@ -52,19 +52,19 @@
 
 #### 기술 스택 
 
-![기술스택](/문서/팀 회의 자료/기술스택/기술스택.png)
+![기술스택](README/%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png)
 
 
 
 #### 시스템 구성도
 
-![service_architecture2](/문서/팀 회의 자료/시스템구성도/service_architecture2.jpg)
+![service_architecture2](README/service_architecture2.jpg)
 
 
 
 #### ERD
 
-![모두의책갈피ERD](/문서/팀 회의 자료/ERD/모두의책갈피ERD.png)
+![모두의책갈피ERD](README/%EB%AA%A8%EB%91%90%EC%9D%98%EC%B1%85%EA%B0%88%ED%94%BCERD.png)
 
 
 
